@@ -1,0 +1,16 @@
+{"time":"2025-08-12T13:14:35.905992+01:00","level":"INFO","msg":"stream: starting","core version":"0.19.11","symlink path":"/Users/alexstihi/Documents/Oxford_repos/oxc_spatial_paper_ready/wandb/run-20250812_131435-9yl991hd/logs/debug-core.log"}
+{"time":"2025-08-12T13:14:36.152525+01:00","level":"INFO","msg":"created new stream","id":"9yl991hd"}
+{"time":"2025-08-12T13:14:36.152582+01:00","level":"INFO","msg":"stream: started","id":"9yl991hd"}
+{"time":"2025-08-12T13:14:36.152599+01:00","level":"INFO","msg":"handler: started","stream_id":"9yl991hd"}
+{"time":"2025-08-12T13:14:36.152614+01:00","level":"INFO","msg":"sender: started","stream_id":"9yl991hd"}
+{"time":"2025-08-12T13:14:36.152599+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"9yl991hd"}
+{"time":"2025-08-12T13:14:36.559355+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-08-12T13:16:35.592912+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-08-12T13:16:35.593162+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-08-12T13:16:36.601784+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact zib_seed_10_model","runtime_seconds":1.012405208,"subtasks":[{"desc":"best_model.pt","runtime_seconds":0.443068416,"progress":"501.8KB/501.8KB"}]},{"desc":"uploading output.log","runtime_seconds":0.563405125,"progress":"3.3KB/3.3KB"},{"desc":"uploading config.yaml","runtime_seconds":0.391173375,"progress":"1.5KB/1.5KB"}],"total_operations":3}}
+{"time":"2025-08-12T13:16:37.64921+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-08-12T13:16:37.840555+01:00","level":"INFO","msg":"stream: closing","id":"9yl991hd"}
+{"time":"2025-08-12T13:16:37.84061+01:00","level":"INFO","msg":"handler: closed","stream_id":"9yl991hd"}
+{"time":"2025-08-12T13:16:37.840628+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":"9yl991hd"}
+{"time":"2025-08-12T13:16:37.84066+01:00","level":"INFO","msg":"sender: closed","stream_id":"9yl991hd"}
+{"time":"2025-08-12T13:16:37.840918+01:00","level":"INFO","msg":"stream: closed","id":"9yl991hd"}

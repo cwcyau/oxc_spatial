@@ -1,0 +1,16 @@
+{"time":"2025-08-12T13:05:17.358591+01:00","level":"INFO","msg":"stream: starting","core version":"0.19.11","symlink path":"/Users/alexstihi/Documents/Oxford_repos/oxc_spatial_paper_ready/wandb/run-20250812_130517-5siofn1r/logs/debug-core.log"}
+{"time":"2025-08-12T13:05:17.598807+01:00","level":"INFO","msg":"created new stream","id":"5siofn1r"}
+{"time":"2025-08-12T13:05:17.598837+01:00","level":"INFO","msg":"stream: started","id":"5siofn1r"}
+{"time":"2025-08-12T13:05:17.598852+01:00","level":"INFO","msg":"sender: started","stream_id":"5siofn1r"}
+{"time":"2025-08-12T13:05:17.59887+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"5siofn1r"}
+{"time":"2025-08-12T13:05:17.598852+01:00","level":"INFO","msg":"handler: started","stream_id":"5siofn1r"}
+{"time":"2025-08-12T13:05:17.967231+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-08-12T13:07:55.20333+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-08-12T13:07:55.203679+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-08-12T13:07:56.21239+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact zib_seed_789_model","runtime_seconds":1.012263417,"subtasks":[{"desc":"best_model.pt","runtime_seconds":0.274574208,"progress":"515.6KB/515.6KB"}]}],"total_operations":1}}
+{"time":"2025-08-12T13:07:57.6697+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-08-12T13:07:57.882562+01:00","level":"INFO","msg":"stream: closing","id":"5siofn1r"}
+{"time":"2025-08-12T13:07:57.882589+01:00","level":"INFO","msg":"handler: closed","stream_id":"5siofn1r"}
+{"time":"2025-08-12T13:07:57.882602+01:00","level":"INFO","msg":"sender: closed","stream_id":"5siofn1r"}
+{"time":"2025-08-12T13:07:57.8826+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":"5siofn1r"}
+{"time":"2025-08-12T13:07:57.882695+01:00","level":"INFO","msg":"stream: closed","id":"5siofn1r"}
